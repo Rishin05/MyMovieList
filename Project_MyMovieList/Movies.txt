@@ -1,0 +1,9 @@
+130,Uncharted,Adventure,4.0
+110,Journey to the West,Adventure,4.1
+127,Life of Pi,Drama,4.4
+150,Mission Impossible,Action/Thriller,4.2
+148,Spider-Man No Way Home,Sci-Fi/Action,4.7
+112,The Conjuring,Horror/Thriller,3.7
+100,Hangover,Comedy,4.3
+94,Kung-Fu Panda,Family/Comedy,3.9
+97,Minions: Rise of Gru,Comedy/Adventure,4.7
